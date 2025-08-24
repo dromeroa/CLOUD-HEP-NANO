@@ -1,6 +1,6 @@
 Aqui vamos a ir explicando algunas ideas que nos pueden servir para el articulo y justificar alguna de nuestras elecciones:
 
-Para encontrar un identificador de jets que provienen de partículas como el bosón W, el bosón Z o el bosón de Higgs (H), necesitas comparar esos 
+Para encontrar un identificador de jets que provienen de partículas como el bosón W, el bosón Z o el bosón de Higgs (H), necesitamos comparar esos 
 jets con un background que contenga eventos de jets provenientes de interacciones no relacionadas con estas partículas, como el QCD (Quantum Chromodynamics).
 
 Comparación de los datasets:
