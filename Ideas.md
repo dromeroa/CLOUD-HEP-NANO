@@ -27,5 +27,5 @@ Además, los jets de W/Z/H tienen una distribución de momento diferente, con m�
 
 Conclusión:
 
-Para construir un identificador de jets que provienen de W, Z o H, debes usar el dataset QCD como fondo, ya que contiene jets de la interacción fuerte, lo que te 
+Para construir un identificador de jets que provienen de W, Z o H, deberiamos usar el dataset QCD como fondo, ya que contiene jets de la interacción fuerte, lo que te 
 ayudará a identificar y separar mejor los jets de interés (W/Z/H) de los eventos de fondo más comunes.
