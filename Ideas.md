@@ -29,3 +29,16 @@ Conclusión:
 
 Para construir un identificador de jets que provienen de W, Z o H, deberiamos usar el dataset QCD como fondo, ya que contiene jets de la interacción fuerte, lo que te 
 ayudará a identificar y separar mejor los jets de interés (W/Z/H) de los eventos de fondo más comunes.
+
+## Ideas de los Triggers
+
+Debemos escoger un trigger que este relacionado con los jets pesados o fatjets (ak8) eso nos da varias alternativas:
+
+• HLT_AK8PFHT800_TrimMass50
+• HLT_AK8PFJet360_TrimMass30
+• HLT_AK8PFJet500
+• HLT_AK8PFJet450
+• HLT_AK8PFJet200
+
+Tenemos el indicio de que los eventos que tengan un jet pesado (usualmente proviene de un W/H/Z)
+
