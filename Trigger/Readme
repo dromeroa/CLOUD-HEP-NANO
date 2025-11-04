@@ -1,1 +1,8 @@
 aqui vamos a estudiar los Trigger que nos interesan para identificar Fat jets energeticos.
+
+## Para correro el skim para guardar datos del tree y analizar el trigger , hacer
+
+
+  ```bash
+root -l -q 'WTagSkimmer2.C("/code/BulkGravtoWW_M1600", "Wjets.csv", true)'
+ ```
