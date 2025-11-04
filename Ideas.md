@@ -48,6 +48,14 @@ Debemos escoger un trigger que este relacionado con los jets pesados o fatjets (
 Tenemos el indicio de que los eventos que tengan solo un jet pesado (usualmente proviene de un W/H/Z)
 
 Tenemos que investigar cuales van a ser los limites del pt de los jets, en MC, eso va a depender de la masa de la señal, ya que en funcion de la masa del BulkG(Estos solo van a un W), ver desde que valores no hay aun un limite o restriccion.
-Y esto nos da un indicio de cual seria el limite para pt del Trigger
+Y esto nos da un indicio de cual seria el limite para pt del Trigger.
+
+
+## Para correro el skim para guardar datos del tree y analizar el trigger , hacer
+
+
+  ```bash
+root -l -q 'WTagSkimmer2.C("/code/BulkGravtoWW_M1600", "Wjets.csv", true)'
+ ```
 
 
