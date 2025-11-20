@@ -3,6 +3,12 @@ Para descargar datasets:
 Ir a la nube, a la carpeta donde se quiera descargar los datasets y hacer:
 
 docker pull docker.io/cernopendata/cernopendata-client
-docker run -i -t --rm docker.io/cernopendata/cernopendata-client download-files --recid 63166
+
+mkdir -p /hepdata/David/cms_open_data_root/QCDptparaAutoencoder/63166
+
+chmod 777 /hepdata/David/cms_open_data_root/QCDptparaAutoencoder/63166
+
+docker run -i -t --rm -v /hepdata/David/cms_open_data_root/QCDptparaAutoencoder:/data -w /data docker.io/cernopendata/cernopendata-client download-files --recid 63166
+
 
 donde 63166 es el numero del dataset
