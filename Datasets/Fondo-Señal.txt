@@ -31,36 +31,95 @@ https://opendata.cern.ch/record/63188
 https://opendata.cern.ch/record/63212
 
 
+Señal: G -> WW -> hadronico
+
+
+
+https://opendata.cern.ch/record/33717
+
+https://opendata.cern.ch/record/33733
+
+https://opendata.cern.ch/record/33693
+
+https://opendata.cern.ch/record/33695
+
+https://opendata.cern.ch/record/33697
+
+https://opendata.cern.ch/record/33699
+
+https://opendata.cern.ch/record/33701
+
+https://opendata.cern.ch/record/33703
+
+https://opendata.cern.ch/record/33705
+
+https://opendata.cern.ch/record/33707
+
+https://opendata.cern.ch/record/33709
+
+https://opendata.cern.ch/record/33711
+
+https://opendata.cern.ch/record/33713
+
+https://opendata.cern.ch/record/33715
+
+https://opendata.cern.ch/record/33719
+
+https://opendata.cern.ch/record/33721
+
+https://opendata.cern.ch/record/33725
+
+https://opendata.cern.ch/record/33727
+
+https://opendata.cern.ch/record/33729
+
+https://opendata.cern.ch/record/33731
+
+
+
+
 
 
 Señal: Graviton -> ZZ -> hadronico
 
 
 
-
 https://opendata.cern.ch/record/33759
 
-https://opendata.cern.ch/record/33757
-
-https://opendata.cern.ch/record/33739
-
-https://opendata.cern.ch/record/33755
-
-https://opendata.cern.ch/record/33753
-
-https://opendata.cern.ch/record/33751
-
-https://opendata.cern.ch/record/33749
-
-https://opendata.cern.ch/record/33747
-
-https://opendata.cern.ch/record/33745
-
-https://opendata.cern.ch/record/33743
-
-https://opendata.cern.ch/record/33741
-
-https://opendata.cern.ch/record/33737
+https://opendata.cern.ch/record/33775
 
 https://opendata.cern.ch/record/33735
 
+https://opendata.cern.ch/record/33737
+
+https://opendata.cern.ch/record/33739
+
+https://opendata.cern.ch/record/33741
+
+https://opendata.cern.ch/record/33743
+
+https://opendata.cern.ch/record/33745
+
+https://opendata.cern.ch/record/33747
+
+https://opendata.cern.ch/record/33749
+
+https://opendata.cern.ch/record/33751
+
+https://opendata.cern.ch/record/33753
+
+https://opendata.cern.ch/record/33755
+
+https://opendata.cern.ch/record/33757
+
+https://opendata.cern.ch/record/33761
+
+https://opendata.cern.ch/record/33763
+
+https://opendata.cern.ch/record/33767
+
+https://opendata.cern.ch/record/33769
+
+https://opendata.cern.ch/record/33771
+
+https://opendata.cern.ch/record/33773
