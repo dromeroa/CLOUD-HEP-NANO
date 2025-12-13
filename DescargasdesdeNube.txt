@@ -12,3 +12,8 @@ docker run -i -t --rm -v /hepdata/David/cms_open_data_root/QCDptparaAutoencoder:
 
 
 donde 63166 es el numero del dataset
+
+Si quiero descargar un archivo en particular, se puede usar:  
+
+cernopendata-client download-files --recid 63167 --filter-name "9634394D-2AAB-2245-A413-09AEEFC8AA2D.root"
+
