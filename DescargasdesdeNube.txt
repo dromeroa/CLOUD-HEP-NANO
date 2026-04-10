@@ -17,3 +17,6 @@ Si quiero descargar un archivo en particular, se puede usar:
 
 cernopendata-client download-files --recid 63167 --filter-name "9634394D-2AAB-2245-A413-09AEEFC8AA2D.root"
 
+Si quiero descargar a una carpeta dentro de hepdata:
+
+docker run -i -t --rm -v /hepdata:/data  -w /data docker.io/cernopendata/cernopendata-client download-files --recid 3370
